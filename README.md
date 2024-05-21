@@ -1,1 +1,1 @@
-[embed]https://github.com/mnolaya/me/blob/main/michael_olaya_cv_2024.pdf[/embed]
+https://github.com/mnolaya/me/blob/main/michael_olaya_cv_2024.pdf
